@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@azure/msal-node": "^2.1.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "@types/node": "^20.6.0"
+  }
+}
